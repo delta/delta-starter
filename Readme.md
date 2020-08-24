@@ -32,6 +32,8 @@ For example, starting a project using a NodeJS/mongo boilerplate is as simple as
 
 `delta-starter node my-project`
 
+![Demo gif](demo.gif "Demo")
+
 ## Available boilerplates
 
 These are the currently available boilerplates. Aim is to include all the common tech stacks. Please help by creating boilerplates which don't exist
