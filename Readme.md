@@ -12,6 +12,14 @@ You need:
 To install:
 `npm install -g delta-starter` -->
 
+The package will be published on npm very soon, until then, it can be installed using :
+
+```shell
+git clone https://github.com/delta/delta-starter
+cd delta-starter
+npm i -g ./
+```
+
 ## Usage
 
 After installing, execute the CLI:
